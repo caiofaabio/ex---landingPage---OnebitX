@@ -5,3 +5,4 @@ A ideia é recriar uma página com o layout e os elementos visuais já definidos
 Com esse projeto, estou consolidando meus conhecimentos e desenvolvendo minhas habilidades de forma prática. Tenho certeza de que isso vai me ajudar a me tornar um desenvolvedor web mais completo e preparado para enfrentar desafios cada vez maiores.
 
 Estou muito animado para continuar aprendendo com esse curso e descobrir tudo o que mais posso fazer com o Bootstrap e o Sass!
+![Captura de tela 2023-04-11 141444](https://user-images.githubusercontent.com/109986771/231239594-46dcde37-f6da-4f55-83db-973d5b413517.png)
